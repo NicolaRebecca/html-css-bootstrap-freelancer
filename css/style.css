@@ -1,0 +1,46 @@
+.container{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.start{
+    background-color: mediumseagreen;
+    height: 300px;
+}
+
+h1{
+    margin-top:10px;
+    text-align: center;
+}
+
+.portfolio-content{
+    margin: 0 auto;
+    width: 50%;
+    height: 600px;
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+
+.portfolio-img{
+    background-color: mediumvioletred;
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.about{
+    background-color: mediumseagreen;
+    height: 200px;
+}
+
+.contact-me{
+    height: 300px;
+}
+
+.fine-sito{
+    background-color: steelblue;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}
